@@ -8,7 +8,7 @@ This is a one page portfolio template project made in HTML and CSS.
 
 # Project live link
 
-[Portfolio-project-6](https://tranquil-bombolone-400b7b.netlify.app)
+[Portfolio-project-6](https://glistening-taiyaki-7b4b21.netlify.app)
 
 # Screenshot
 
